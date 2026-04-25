@@ -10,15 +10,21 @@ The project provides a simple and accessible environment for students, engineers
 Many students and beginner engineers face difficulties when learning industrial systems because:
 
 real industrial equipment is expensive and not accessible
+
 OPC UA and SCADA systems are complex for beginners
+
 there are limited free and open tools for practice
+
 💡 Solution
 
 OpenPlant Monitor solves this problem by:
 
 providing a lightweight OPC UA client
+
 offering a simple web-based dashboard
+
 enabling simulation of industrial parameters (temperature, pressure, status)
+
 being fully open-source and easy to extend
 
 🌍 SDG Alignment
@@ -36,15 +42,23 @@ Promotes digital industrial skills and innovation
 This project aligns with DPG principles because:
 
 it is open-source
+
 it is freely accessible
+
 it provides public value for education
+
 it includes documentation and reusability
+
 it can be adapted and scaled globally
 
 👥 Target Users
+
 students (engineering / automation)
+
 beginner industrial engineers
+
 university instructors
+
 developers interested in OPC UA
 
 💎 Value Proposition
@@ -71,10 +85,13 @@ openplant-monitor/
 1. Clone the repository
 git clone https://github.com/your-username/openplant-monitor.git
 cd openplant-monitor
+
 2. Install dependencies
 pip install opcua
+
 3. Run OPC UA client
 python backend/opcua_client.py
+
 4. Open dashboard
 
 Open frontend/index.html in your browser
@@ -86,9 +103,13 @@ We welcome contributions!
 Steps:
 
 Fork the repository
+
 Create a new branch (feature/new-feature)
+
 Commit your changes
+
 Push to your branch
+
 Open a Pull Request
 
 📜 License
@@ -104,8 +125,11 @@ Figma AI – for UI prototyping
 
 📊 Future Improvements
 real-time data visualization
+
 integration with real PLC devices
+
 advanced dashboard (charts, alerts)
+
 cloud deployment
 
 ⭐ Conclusion
