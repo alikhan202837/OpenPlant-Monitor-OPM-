@@ -1,70 +1,77 @@
 # OpenPlant-Monitor-OPM
 
-📌 Project Description
+## 📌 Project Overview
 
-OpenPlant Monitor is an open-source platform designed to simulate and monitor industrial data using OPC UA technology.
-The project provides a simple and accessible environment for students, engineers, and educators to learn industrial automation concepts without requiring real hardware.
+###OpenPlant Monitor is an open-source platform designed to simulate and monitor industrial data using OPC UA technology.
+###It provides a simple and accessible environment for students, engineers, and educators to explore industrial automation without requiring real hardware.
 
 ❗ Problem
 
-Many students and beginner engineers face difficulties when learning industrial systems because:
+Many students and beginner engineers struggle with industrial systems because:
 
-real industrial equipment is expensive and not accessible
-
-OPC UA and SCADA systems are complex for beginners
-
-there are limited free and open tools for practice
-
+⚠️ Real industrial equipment is expensive
+⚠️ OPC UA and SCADA systems are complex
+⚠️ Limited free tools for hands-on practice
 💡 Solution
 
-OpenPlant Monitor solves this problem by:
+OpenPlant Monitor addresses these challenges by:
 
-providing a lightweight OPC UA client
-
-offering a simple web-based dashboard
-
-enabling simulation of industrial parameters (temperature, pressure, status)
-
-being fully open-source and easy to extend
-
+✅ Lightweight OPC UA client
+✅ Simple web-based dashboard
+✅ Simulated industrial parameters (temperature, pressure, status)
+✅ Fully open-source and extendable
 🌍 SDG Alignment
 
-This project supports the following Sustainable Development Goals:
+This project supports:
 
-SDG 4 – Quality Education
-Improves access to technical and engineering education tools
+🎓 SDG 4 – Quality Education
+🏭 SDG 9 – Industry, Innovation and Infrastructure
+🌐 Digital Public Goods (DPG)
 
-SDG 9 – Industry, Innovation and Infrastructure
-Promotes digital industrial skills and innovation
+This project qualifies as a Digital Public Good because:
 
-🌐 Digital Public Goods (DPG) Justification
-
-This project aligns with DPG principles because:
-
-it is open-source
-
-it is freely accessible
-
-it provides public value for education
-
-it includes documentation and reusability
-
-it can be adapted and scaled globally
-
+🔓 Open-source
+🌍 Publicly accessible
+📚 Educational value
+🔁 Reusable and scalable
 👥 Target Users
-
-students (engineering / automation)
-
-beginner industrial engineers
-
-university instructors
-
-developers interested in OPC UA
-
+👨‍🎓 Students (engineering / automation)
+🧑‍🔧 Beginner industrial engineers
+👨‍🏫 University instructors
+💻 Developers interested in OPC UA
 💎 Value Proposition
 
 A simple, free, and open platform for learning and simulating industrial data using OPC UA.
 
+📊 Market & Competitor Analysis
+🔴 Competitors
+Kepware
+Ignition SCADA
+Siemens WinCC
+📉 SWOT Analysis
+
+Strengths
+
+Free and open-source
+Easy to use
+Designed for education
+
+Weaknesses
+
+Limited features
+Basic UI
+Not production-level
+
+Opportunities
+
+University adoption
+IoT integration
+Cloud expansion
+
+Threats
+
+Strong commercial tools
+Low community support
 🏗️ Project Structure
 openplant-monitor/
 │
@@ -80,58 +87,52 @@ openplant-monitor/
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
-
-⚙️ How to Use
-1. Clone the repository
+⚙️ Getting Started
+1️⃣ Clone repository
 git clone https://github.com/your-username/openplant-monitor.git
 cd openplant-monitor
-
-2. Install dependencies
+2️⃣ Install dependencies
 pip install opcua
-
-3. Run OPC UA client
+3️⃣ Run OPC UA client
 python backend/opcua_client.py
+4️⃣ Open dashboard
 
-4. Open dashboard
+Open:
 
-Open frontend/index.html in your browser
+frontend/index.html
+
+⚠️ Make sure OPC UA server is running locally.
 
 🤝 Contributing
 
 We welcome contributions!
 
-Steps:
+Fork the repo
+Create a branch (feature/new-feature)
+Commit changes
+Push branch
+Open Pull Request
 
-Fork the repository
-
-Create a new branch (feature/new-feature)
-
-Commit your changes
-
-Push to your branch
-
-Open a Pull Request
+✔ Use clear commit messages
+✔ Follow basic coding practices
 
 📜 License
 
-This project is licensed under the MIT License, which allows free use, modification, and distribution.
+Licensed under the MIT License.
 
-🤖 AI Usage Disclosure
-
-AI tools were used in this project:
-
-ChatGPT – for code generation and documentation
-Figma AI – for UI prototyping
-
-📊 Future Improvements
-real-time data visualization
-
-integration with real PLC devices
-
-advanced dashboard (charts, alerts)
-
-cloud deployment
-
+🤖 AI Usage
+ChatGPT → code & documentation
+Figma AI → UI prototype
+👨‍👩‍👧‍👦 Team
+Alikhan Maksut — Backend
+[Member 2] — Frontend
+[Member 3] — Documentation
+[Member 4] — Research
+🚀 Future Improvements
+📊 Real-time charts
+🔌 PLC integration
+☁️ Cloud deployment
+🚨 Alerts system
 ⭐ Conclusion
 
-OpenPlant Monitor demonstrates how open-source tools can support education and industrial skill development by providing accessible and practical learning solutions.
+OpenPlant Monitor demonstrates how open-source solutions can make industrial education more accessible, practical, and scalable.
