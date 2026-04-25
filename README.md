@@ -194,3 +194,7 @@ Ridvan — Documentation
 ⭐ Conclusion
 
 OpenPlant Monitor demonstrates how open-source solutions can make industrial education more accessible, practical, and scalable.
+
+AI usage: 
+
+AI was used to well-structured and easy view of documentation
