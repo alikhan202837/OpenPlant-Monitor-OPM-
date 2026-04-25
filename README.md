@@ -1,6 +1,5 @@
 # OpenPlant-Monitor-OPM
 
-🌱 OpenPlant Monitor (OPM)
 📌 Project Description
 
 OpenPlant Monitor is an open-source platform designed to simulate and monitor industrial data using OPC UA technology.
@@ -21,14 +20,17 @@ providing a lightweight OPC UA client
 offering a simple web-based dashboard
 enabling simulation of industrial parameters (temperature, pressure, status)
 being fully open-source and easy to extend
+
 🌍 SDG Alignment
 
 This project supports the following Sustainable Development Goals:
 
 SDG 4 – Quality Education
 Improves access to technical and engineering education tools
+
 SDG 9 – Industry, Innovation and Infrastructure
 Promotes digital industrial skills and innovation
+
 🌐 Digital Public Goods (DPG) Justification
 
 This project aligns with DPG principles because:
@@ -38,11 +40,13 @@ it is freely accessible
 it provides public value for education
 it includes documentation and reusability
 it can be adapted and scaled globally
+
 👥 Target Users
 students (engineering / automation)
 beginner industrial engineers
 university instructors
 developers interested in OPC UA
+
 💎 Value Proposition
 
 A simple, free, and open platform for learning and simulating industrial data using OPC UA.
@@ -62,6 +66,7 @@ openplant-monitor/
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
+
 ⚙️ How to Use
 1. Clone the repository
 git clone https://github.com/your-username/openplant-monitor.git
@@ -85,6 +90,7 @@ Create a new branch (feature/new-feature)
 Commit your changes
 Push to your branch
 Open a Pull Request
+
 📜 License
 
 This project is licensed under the MIT License, which allows free use, modification, and distribution.
@@ -101,6 +107,7 @@ real-time data visualization
 integration with real PLC devices
 advanced dashboard (charts, alerts)
 cloud deployment
+
 ⭐ Conclusion
 
 OpenPlant Monitor demonstrates how open-source tools can support education and industrial skill development by providing accessible and practical learning solutions.
