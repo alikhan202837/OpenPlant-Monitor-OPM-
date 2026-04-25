@@ -5,7 +5,7 @@
 OpenPlant Monitor is an open-source platform designed to simulate and monitor industrial data using OPC UA technology.
 It provides a simple and accessible environment for students, engineers, and educators to explore industrial automation without requiring real hardware.
 
-##❗ Problem
+## ❗ Problem
 
 Many students and beginner engineers struggle with industrial systems because:
 
@@ -15,7 +15,7 @@ Many students and beginner engineers struggle with industrial systems because:
 
 ⚠️ Limited free tools for hands-on practice
 
-##💡 Solution
+## 💡 Solution
 
 OpenPlant Monitor addresses these challenges by:
 
@@ -27,7 +27,7 @@ OpenPlant Monitor addresses these challenges by:
 
 ✅ Fully open-source and extendable
 
-##🌍 SDG Alignment
+## 🌍 SDG Alignment
 
 This project supports:
 
@@ -35,7 +35,7 @@ This project supports:
 
 🏭 SDG 9 – Industry, Innovation and Infrastructure
 
-#🌐 Digital Public Goods (DPG)
+## 🌐 Digital Public Goods (DPG)
 
 This project qualifies as a Digital Public Good because:
 
@@ -47,7 +47,7 @@ Educational value
 
 Reusable and scalable
 
-##👥 Target Users
+## 👥 Target Users
 
 Students (engineering / automation)
 
@@ -71,7 +71,7 @@ Ignition SCADA
 
 Siemens WinCC
 
-##📉 SWOT Analysis
+## 📉 SWOT Analysis
 
 Strengths:
 
@@ -103,7 +103,7 @@ Strong commercial tools
 
 Low community support
 
-##🏗️ Project Structure
+## 🏗️ Project Structure
 openplant-monitor/
 
 │
@@ -132,7 +132,7 @@ openplant-monitor/
 
 ├── CONTRIBUTING.md
 
-##⚙️ Getting Started
+## ⚙️ Getting Started
 
 1️⃣ Clone repository:
 git clone https://github.com/your-username/openplant-monitor.git
@@ -152,7 +152,7 @@ frontend/index.html
 
 ⚠️ Make sure OPC UA server is running locally.
 
-🤝 Contributing
+## 🤝 Contributing
 
 We welcome contributions!
 
@@ -170,18 +170,18 @@ Open Pull Request
 
 ✔ Follow basic coding practices
 
-📜 License
+## 📜 License
 
 Licensed under the MIT License.
 
-👨‍👩‍👧‍👦 Team
+## 👨‍👩‍👧‍👦 Team
 Alikhan — CEO
 
 Arthut — Frontend, Backend
 
 Ridvan — Documentation
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 📊 Real-time charts
 
